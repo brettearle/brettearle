@@ -1,7 +1,6 @@
-### Hi there 👋
-
+# Hello Everybody I'm Brett 🙈 🙊 🙉
 <!--
-**Tee-Brett/Tee-Brett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tee-Brett/Tee-Brett** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
