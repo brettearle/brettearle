@@ -32,6 +32,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brettearleSWT&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=FFDE59&fire=38B6FF&currStreakLabel=7ED957&border=7ED957)](https://git.io/streak-stats)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brettearleSWT?cardType=level&Background=151515&Text=38B6FF&Title=7ED957&Border=7ED957&Ring=FFDE59)](https://git.io/awesome-stats-card)
+
 
 
