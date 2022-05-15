@@ -1,9 +1,9 @@
 <img src="https://github.com/brettearleSWT/profileAssets/blob/main/welcomeBanner.png" />
-<p align="left"><strong>Connect</strong>
-<a href="https://twitter.com/brettearleswt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brettearleswt" height="30" width="40"/></a>  
-<a href="https://www.linkedin.com/in/brettearle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brettearleswt" height="30" width="40" /></a>
-
+<p align="left"><strong>Connect:</strong>
+<a href="https://twitter.com/brettearleswt" target="blank"><img align="center" src="https://img.shields.io/static/v1?label=twitter&message=follow&color=blue&logo=twitter&style=for-the-badge" alt="brettearleswt"/></a>
+ <a href="https://www.linkedin.com/in/brettearle/" target="blank"><img align="center" src="https://img.shields.io/static/v1?label=LinkedIn&message=connect&color=blue&logo=linkedin&style=for-the-badge" alt="brettearleswt"/></a>
 </p>
+
 <h1 align="center">Hi 👋, I'm Brett Earle and this Github is a WIP</h1>
 <h3 align="center">A passionate Software Engineer from Australia</h3>
 
@@ -29,7 +29,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/brettearleswt" target="blank"><img align="center" src="https://img.shields.io/static/v1?label=twitter&message=connect&color=blue&logo=twitter&style=for-the-badge" alt="brettearleswt"/></a>
+<a href="https://twitter.com/brettearleswt" target="blank"><img align="center" src="https://img.shields.io/static/v1?label=twitter&message=follow&color=blue&logo=twitter&style=for-the-badge" alt="brettearleswt"/></a>
+ <a href="https://www.linkedin.com/in/brettearle/" target="blank"><img align="center" src="https://img.shields.io/static/v1?label=LinkedIn&message=connect&color=blue&logo=linkedin&style=for-the-badge" alt="brettearleswt"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
