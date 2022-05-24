@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Brett Earle and this Github is a WIP</h1>
 <h3 align="center">A passionate Software Engineer from Australia</h3>
 
-- 🔭 I’m currently working on [Star Wars GM Helper for Fate TTRPG]([https://starwarsfategm.netlify.app/])
+- 🔭 I’m currently working on [Star Wars GM Helper for Fate TTRPG](https://starwarsfategm.netlify.app/)
 
 - 🌱 I’m currently learning **Node**
 
