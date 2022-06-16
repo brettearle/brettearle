@@ -7,7 +7,7 @@
  <a href="https://www.brettearle.dev/" target="blank"><img align="center" src="https://img.shields.io/static/v1?label=Portfolio&message=check out&color=7ed957&style=for-the-badge" alt="brettearle"/></a>
 </p>
 <hr>
-<h1 align="center">Hi 👋, I'm Brett Earle and this Github is a WIP</h1>
+<h1 align="center">Hi 👋, I'm Brett Earle</h1>
 <h3 align="center">A passionate Software Engineer from Australia</h3>
 
 - 🔭 I’m currently working on [Star Wars GM Helper for Fate TTRPG](https://starwarsfategm.netlify.app/)
