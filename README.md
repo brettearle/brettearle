@@ -8,7 +8,7 @@
 </p>
 <hr>
 <h1 align="center">Hi 👋, I'm Brett Earle</h1>
-<h3 align="center">A passionate Software Engineer from Australia</h3>
+<h3 align="center">A Software Engineer from Australia</h3>
 
 - 🔭 I’m currently working on [Star Wars GM Helper for Fate TTRPG](https://starwarsfategm.netlify.app/)
 <img src="https://github.com/brettearle/profileAssets/blob/main/gifs/fateStarWars.gif" width=400px>
