@@ -10,10 +10,10 @@
 <h1 align="center">Hi 👋, I'm Brett Earle</h1>
 <h3 align="center">A Software Engineer from Australia</h3>
 
-- 🔭 I’m currently working on [firebase api for front end testing](https://github.com/brettearle/todoAPI)
+- 🔭 I’m currently working on [react front end for RPG clock work gates](https://github.com/brettearle/clock-work-fe)
 
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on [project b](##)
 
