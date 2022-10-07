@@ -3,14 +3,12 @@
 <p align="center">
 <a href="https://twitter.com/brettearleswt" target="blank"><img align="center" src="https://img.shields.io/static/v1?label=twitter&message=follow&color=38b6ff&logo=twitter&style=for-the-badge" alt="brettearleswt"/></a>
  <a href="https://www.linkedin.com/in/brettearle/" target="blank"><img align="center" src="https://img.shields.io/static/v1?label=LinkedIn&message=connect&color=7ed957&logo=linkedin&style=for-the-badge" alt="brettearleswt"/></a>
- <a href="https://angel.co/u/brett-earle" target="blank"><img align="center" src="https://img.shields.io/static/v1?label=AngelList&message=scope&color=38b6ff&logo=Angellist&style=for-the-badge" alt="brettearleswt"/></a>
- <a href="https://www.brettearle.dev/" target="blank"><img align="center" src="https://img.shields.io/static/v1?label=Portfolio&message=check out&color=7ed957&style=for-the-badge" alt="brettearle"/></a>
 </p>
 <hr>
 <h1 align="center">Hi 👋, I'm Brett Earle</h1>
 <h3 align="center">A Software Engineer from Australia</h3>
 
-- 🔭 I’m currently working on [react front end for RPG clock work gates](https://github.com/brettearle/clock-work-fe)
+- 🔭 I’m currently working on working through Eloquent JS and applying TDD to problems
 
 
 - 🌱 I’m currently learning **Rust**
