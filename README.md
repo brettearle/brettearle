@@ -8,26 +8,9 @@
 <h1 align="center">Hi 👋, I'm Brett Earle</h1>
 <h3 align="center">A Software Engineer from Australia</h3>
 
-- 🔭 I’m currently working on working through Eloquent JS and applying TDD to problems
-
-
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [project b](##)
 
-- 🤝 I’m looking for help with [project c](##)
-
-- 👨‍💻 All of my projects are available at [##](##)
-
-- 📝 I regularly write articles on [##](##)
-
-- 💬 Ask me about **React, Node, Javascript, CSS**
-
-- 📫 How to reach me **##**
-
-- 📄 Know about my experiences [##](##)
-
-- ⚡ Fun fact **##**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
