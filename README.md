@@ -8,8 +8,6 @@
 <h1 align="center">Hi 👋, I'm Brett Earle</h1>
 <h3 align="center">A Software Engineer from Australia</h3>
 
-- 🌱 I’m currently learning **Rust**
-
 
 
 <h3 align="left">Connect with me:</h3>
