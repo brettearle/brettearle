@@ -6,7 +6,7 @@
 </p>
 <hr>
 <h1 align="center">Hi 👋, I'm Brett Earle</h1>
-<h3 align="center">A Software Engineer from Australia</h3>
+<h3 align="center">A Software Dev from Australia</h3>
 
 
 
